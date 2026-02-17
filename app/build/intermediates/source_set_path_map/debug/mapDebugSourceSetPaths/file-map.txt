@@ -1,0 +1,50 @@
+com.smartrecipe.life_force.app-lifecycle-viewmodel-2.6.2-0 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\0a1beb0c12e35b2c67cb14bd5069c239\transformed\lifecycle-viewmodel-2.6.2\res
+com.smartrecipe.life_force.app-ads-adservices-1.1.0-beta11-1 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\0d42ec8ec4a377a31804f40b454d18a2\transformed\ads-adservices-1.1.0-beta11\res
+com.smartrecipe.life_force.app-emoji2-views-helper-1.3.0-2 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\0e89690391f0bf92dfffedb58188a45f\transformed\emoji2-views-helper-1.3.0\res
+com.smartrecipe.life_force.app-play-services-base-18.5.0-3 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\10de71bea90328da5db4468266c66987\transformed\play-services-base-18.5.0\res
+com.smartrecipe.life_force.app-startup-runtime-1.1.1-4 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\1cbfce2aa8b91c7f1d42da98568a2cc9\transformed\startup-runtime-1.1.1\res
+com.smartrecipe.life_force.app-credentials-1.2.0-rc01-5 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\1e11c76a5e1d6821417b28908281ec77\transformed\credentials-1.2.0-rc01\res
+com.smartrecipe.life_force.app-play-services-auth-20.7.0-6 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\2a86648e38d0cbbe35b57833475d3f5b\transformed\play-services-auth-20.7.0\res
+com.smartrecipe.life_force.app-material-1.12.0-7 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\46dd0ef6e0374f3dacc4c91ceb4f5855\transformed\material-1.12.0\res
+com.smartrecipe.life_force.app-lifecycle-livedata-core-2.6.2-8 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\4f9fb60c8325b732c9d602c6fa36c76d\transformed\lifecycle-livedata-core-2.6.2\res
+com.smartrecipe.life_force.app-core-common-2.0.3-9 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\530e8e6d4e3f4d129b7a918537e2cca6\transformed\core-common-2.0.3\res
+com.smartrecipe.life_force.app-annotation-experimental-1.4.0-10 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\545eb7c33b5abf33fda048a1c5d36f53\transformed\annotation-experimental-1.4.0\res
+com.smartrecipe.life_force.app-lifecycle-runtime-2.6.2-11 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\641af39fc1767c0a92c87ce01371675e\transformed\lifecycle-runtime-2.6.2\res
+com.smartrecipe.life_force.app-core-1.13.0-12 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\68f30380e1fa382768dc12c6d36ea159\transformed\core-1.13.0\res
+com.smartrecipe.life_force.app-datastore-release-13 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\726b134b1e8df2cfa71dc1cee60c6a4a\transformed\datastore-release\res
+com.smartrecipe.life_force.app-lifecycle-process-2.6.2-14 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\75cb60d65338c10783a0d05cc771d835\transformed\lifecycle-process-2.6.2\res
+com.smartrecipe.life_force.app-recyclerview-1.1.0-15 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\812e7a25a919dfeb7f828d9d2a6a9ea7\transformed\recyclerview-1.1.0\res
+com.smartrecipe.life_force.app-play-services-basement-18.5.0-16 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\8144ed6aef8653e0ccc63170c07306f1\transformed\play-services-basement-18.5.0\res
+com.smartrecipe.life_force.app-fragment-1.5.4-17 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\8c02685a4859ceecc5899abff53f5202\transformed\fragment-1.5.4\res
+com.smartrecipe.life_force.app-core-viewtree-1.0.0-18 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\93f8abe3e4ab846ca4015ee47ec6d526\transformed\core-viewtree-1.0.0\res
+com.smartrecipe.life_force.app-core-runtime-2.2.0-19 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\9499457f5e74f8e650413a80b3dba08a\transformed\core-runtime-2.2.0\res
+com.smartrecipe.life_force.app-play-services-maps-18.1.0-20 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\978eae766a6ff5c148701c3cf80e95b8\transformed\play-services-maps-18.1.0\res
+com.smartrecipe.life_force.app-savedstate-1.2.1-21 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\a60cbc879787e238fc2f1677634e5879\transformed\savedstate-1.2.1\res
+com.smartrecipe.life_force.app-viewpager2-1.0.0-22 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\aa4cc5b2d0b822f80eefa2ab0a12fea4\transformed\viewpager2-1.0.0\res
+com.smartrecipe.life_force.app-ads-adservices-java-1.1.0-beta11-23 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\af6b826c2496b20abc5c33cac139be43\transformed\ads-adservices-java-1.1.0-beta11\res
+com.smartrecipe.life_force.app-activity-1.10.1-24 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\b176d9b00688e1e5708e3cfb354f7551\transformed\activity-1.10.1\res
+com.smartrecipe.life_force.app-profileinstaller-1.4.0-25 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\b9ed1361f536c7a8ee2966e5ffd17928\transformed\profileinstaller-1.4.0\res
+com.smartrecipe.life_force.app-appcompat-resources-1.7.1-26 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\c3cd7e8631b0f64a53e21a9869f5711d\transformed\appcompat-resources-1.7.1\res
+com.smartrecipe.life_force.app-transition-1.5.0-27 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\c535b52cb42e4956326cb5c06e8df3f9\transformed\transition-1.5.0\res
+com.smartrecipe.life_force.app-firebase-common-22.0.0-28 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\c71294dc71a465fa6441c6b70575a8c7\transformed\firebase-common-22.0.0\res
+com.smartrecipe.life_force.app-coordinatorlayout-1.1.0-29 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\cc89872e66577532948bcd5756b2c5d3\transformed\coordinatorlayout-1.1.0\res
+com.smartrecipe.life_force.app-credentials-play-services-auth-1.2.0-rc01-30 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\d1e1d2a2dd98e8b6933986559130024a\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.smartrecipe.life_force.app-core-ktx-1.13.0-31 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\d5150667d69d899a48d2c5aeb3076802\transformed\core-ktx-1.13.0\res
+com.smartrecipe.life_force.app-emoji2-1.3.0-32 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\d80fc26df6ca957318b84fa72bcc4032\transformed\emoji2-1.3.0\res
+com.smartrecipe.life_force.app-lifecycle-livedata-2.6.2-33 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\de82a4869d548404aa59e103ec2b0e45\transformed\lifecycle-livedata-2.6.2\res
+com.smartrecipe.life_force.app-lifecycle-viewmodel-savedstate-2.6.2-34 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\e2196543035c03da9ca972fb9c899636\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.smartrecipe.life_force.app-drawerlayout-1.1.1-35 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\e6b7884dc678811e9551a0bf103d1dae\transformed\drawerlayout-1.1.1\res
+com.smartrecipe.life_force.app-cardview-1.0.0-36 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\e82848ae9f697ef0e8febbff690674b3\transformed\cardview-1.0.0\res
+com.smartrecipe.life_force.app-appcompat-1.7.1-37 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\f12ad5e0d0bbef7cb46864b61897af0e\transformed\appcompat-1.7.1\res
+com.smartrecipe.life_force.app-constraintlayout-2.2.1-38 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\f60aca64813a81595615e0d7738c695e\transformed\constraintlayout-2.2.1\res
+com.smartrecipe.life_force.app-browser-1.4.0-39 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\f79ee2e85a74e5ef583b79a73131dafa\transformed\browser-1.4.0\res
+com.smartrecipe.life_force.app-datastore-preferences-release-40 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\fab7f33da4913da47921b5cf45df3258\transformed\datastore-preferences-release\res
+com.smartrecipe.life_force.app-datastore-core-release-41 C:\Users\Windows 10 Pro\.gradle\caches\8.13\transforms\ff73d2101efb9f87f57a4f73c10f6511\transformed\datastore-core-release\res
+com.smartrecipe.life_force.app-pngs-42 D:\AndroidStudioProjects\Updated-Lifeforce\app\build\generated\res\pngs\debug
+com.smartrecipe.life_force.app-res-43 D:\AndroidStudioProjects\Updated-Lifeforce\app\build\generated\res\processDebugGoogleServices
+com.smartrecipe.life_force.app-resValues-44 D:\AndroidStudioProjects\Updated-Lifeforce\app\build\generated\res\resValues\debug
+com.smartrecipe.life_force.app-packageDebugResources-45 D:\AndroidStudioProjects\Updated-Lifeforce\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.smartrecipe.life_force.app-packageDebugResources-46 D:\AndroidStudioProjects\Updated-Lifeforce\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.smartrecipe.life_force.app-debug-47 D:\AndroidStudioProjects\Updated-Lifeforce\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.smartrecipe.life_force.app-debug-48 D:\AndroidStudioProjects\Updated-Lifeforce\app\src\debug\res
+com.smartrecipe.life_force.app-main-49 D:\AndroidStudioProjects\Updated-Lifeforce\app\src\main\res

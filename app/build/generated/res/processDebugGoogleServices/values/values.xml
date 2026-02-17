@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1013829788730</string>
+    <string name="google_api_key" translatable="false">AIzaSyC3pjGTrM2KxihjJBPO9Uorv6wmYlcko0I</string>
+    <string name="google_app_id" translatable="false">1:1013829788730:android:ff1c5866ac1996bfe74103</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC3pjGTrM2KxihjJBPO9Uorv6wmYlcko0I</string>
+    <string name="google_storage_bucket" translatable="false">life-force-854e3.firebasestorage.app</string>
+    <string name="project_id" translatable="false">life-force-854e3</string>
+</resources>

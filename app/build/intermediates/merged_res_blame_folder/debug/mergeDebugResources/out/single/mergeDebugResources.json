@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\drawable_ic_blood.xml.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\drawable\\ic_blood.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\layout_activity_chatbot.xml.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\layout\\activity_chatbot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\drawable_et_background.xml.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\drawable\\et_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\layout_activity_awareness.xml.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\layout\\activity_awareness.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-pngs-42:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.smartrecipe.life_force.app-debug-47:/layout_activity_main.xml.flat",
+        "source": "com.smartrecipe.life_force.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\layout_edittext_bg.xml.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\layout\\edittext_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\drawable_blood_banner.png.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\drawable\\blood_banner.png"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.smartrecipe.life_force.app-debug-47:/layout_activity_general_checkup.xml.flat",
+        "source": "com.smartrecipe.life_force.app-main-49:/layout/activity_general_checkup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\layout_activity_find_blood.xml.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\layout\\activity_find_blood.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-debug-47:\\layout_activity_donor.xml.flat",
+        "source": "C:\\Users\\Windows 10 Pro\\.gradle\\daemon\\8.13\\com.smartrecipe.life_force.app-main-49:\\layout\\activity_donor.xml"
+    }
+]
